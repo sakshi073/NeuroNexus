@@ -1,2 +1,2 @@
 # NeuroNexus
-I have developed this landing page using html and css
+I have developed this to showcase my web developmemt skills
